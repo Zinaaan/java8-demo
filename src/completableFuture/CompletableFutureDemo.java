@@ -1,4 +1,4 @@
-package CompletableFuture;
+package completableFuture;
 
 import common.Result;
 
