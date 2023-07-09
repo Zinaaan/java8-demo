@@ -1,4 +1,4 @@
-package multithreads;
+package multithreads.alternateExecution;
 
 /**
  * @author lzn

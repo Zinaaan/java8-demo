@@ -1,4 +1,4 @@
-package multithreads;
+package multithreads.alternateExecution;
 
 import java.util.concurrent.Semaphore;
 
